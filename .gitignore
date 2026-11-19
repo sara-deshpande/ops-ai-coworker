@@ -20,3 +20,5 @@ data/
 
 # macOS clutter
 .DS_Store
+
+scratch/
